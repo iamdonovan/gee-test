@@ -1,3 +1,5 @@
+// adding a note to test something!
+
 // select landsat image LC08_L1TP_062018_20190821 from the Collection 1, Tier 1 ImageCollection
 var img = ee.Image("LANDSAT/LC08/C02/T1_L2/LC08_062018_20190821");
 
